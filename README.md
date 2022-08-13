@@ -2,8 +2,8 @@
 
 ### Overview:
 Smart contracts for minting 2 types of NFTs:
-    - The first is a collection of ERC721 tokens with the same content.
-    - The second is a random NFT with assets chosen at random (using Chainlink VRF) from IPFS with certain rarities.
+- The first is a collection of ERC721 tokens with the same content.
+- The second is a random NFT with assets chosen at random (using Chainlink VRF) from IPFS with certain rarities.
 ### Tech Stack:
 
 - **Blockchain**: `Solidity`, `Chainlink VRF`, `Hardhat`, `hardhat-etherscan`, `hardhat-gas-reporter`, `hardhat-deploy`, `solidity-coverage`, `hardhat-contract-sizer`.
